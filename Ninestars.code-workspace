@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Ninestars",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../create-netflix-login-page-html-css/Netflix Login Page/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Ninestars"
+	}
+}
